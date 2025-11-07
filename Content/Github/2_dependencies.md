@@ -30,7 +30,7 @@ Daarnaast kun je er ook tekst in markdown schrijven.
 
 Omdat we gebruik maken van Jupyter Book, is het handig om Jupyter lab te installeren/gebruiken met de MyST extensie.
 Als je bovenstaande command hebt uitgevoerd, zou je Jupyter lab met MyST ondersteuning moeten hebben.
-Jupyter lab start je dan door VSC te openen en ide terminal te openen en het volgende commando uit te voeren:
+Jupyter lab start je dan door VSC te openen en in de terminal te openen en het volgende commando uit te voeren:
 
 ```bash
 jupyter lab
