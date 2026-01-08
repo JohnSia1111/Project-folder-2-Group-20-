@@ -53,7 +53,7 @@ project:
         children:
          - file: Content/Labs/cwater.ipynb        
          - file: Content/Labs/Warmtecapaciteit.ipynb
-         - file: Content/Labs/koelbuis (2).ipynb
+         - file: Content/Labs/koelbuis.ipynb
       - title: Druk
         children:
           - file: Content/Labs/druksensorijken.ipynb
